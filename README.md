@@ -1,7 +1,7 @@
  <br><br>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Lee-Sujee&utm_content=farm">
     <img
-      src="https://render.gitanimals.org/farms/깃허브아이디"
+      src="https://render.gitanimals.org/farms/hyunmeesun@naver.com"
       width="450"
       height="225"
     />
